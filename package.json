@@ -1,0 +1,22 @@
+{
+  "name": "pinteresting",
+  "version": "0.0.1",
+  "description": "Small app for downloading images from pinterest's pins",
+  "main": "pinteresting.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "mkdirp": "^0.5.1",
+    "node-pinterest": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SneakyEchidna/pinteresting.git"
+  },
+  "keywords": ["pinterest"],
+  "author": "Kanstantsin Kiyko",
+  "license": "ISC"
+}
