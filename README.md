@@ -16,6 +16,8 @@ Small app for downloading pin's images from `pinterest.com`
 
 * Create token at `https://developers.pinterest.com/docs/api/overview/`
 
+* Add token to `pinteresting.js`
+
 * Download all images from desired board
 
   `node pinteresting.js username/boardname`
